@@ -8,7 +8,7 @@
 
 #import <Cocoa/Cocoa.h>
 
-@interface ___PROJECTNAMEASIDENTIFIER___AppDelegate : NSObject <NSApplicationDelegate> {
+@interface ___PROJECTNAMEASIDENTIFIER___AppDelegate : NSObject {
     NSWindow *window;
 }
 
