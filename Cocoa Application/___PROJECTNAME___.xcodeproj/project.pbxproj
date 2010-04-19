@@ -236,6 +236,7 @@
 				PRODUCT_NAME = "___PROJECTNAME___";
 				SDKROOT = "";
 				SKIP_INSTALL = YES;
+				SYMROOT = "/Users/mio/Documents/Development/Xcode Build Output/Windows";
 				VALID_ARCHS = i386;
 				ZERO_LINK = NO;
 			};
@@ -268,6 +269,7 @@
 				PRODUCT_NAME = "___PROJECTNAME___";
 				SDKROOT = "";
 				SKIP_INSTALL = YES;
+				SYMROOT = "/Users/mio/Documents/Development/Xcode Build Output/Windows";
 				VALID_ARCHS = i386;
 				ZERO_LINK = NO;
 			};
